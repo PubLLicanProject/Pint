@@ -5,7 +5,7 @@ A tool for serial processing of open-source PubMed Central papers with various L
 ## Overview
 
 PINT allows you to process academic papers from PubMed using your choice of:
-- OpenAI models
+- OpenAI models (or compatible API such as Ollama)
 - Anthropic's Claude
 - External shell script integration
 
